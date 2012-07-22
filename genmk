@@ -1,0 +1,3 @@
+#!/bin/sh
+
+genmk.pl < Makefile.in > Makefile

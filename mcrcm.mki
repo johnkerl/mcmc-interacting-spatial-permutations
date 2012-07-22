@@ -1,0 +1,8 @@
+:builder=.c=gcc $(OPTCFLAGS) -Wall -Werror
+:object_dir=./rcm_objs
+:linker=gcc $(OPTLFLAGS)
+:lib_dir=.
+:misc_lflag=-lrcm
+:misc_lflag=-lm
+:extra_dep=./librcm.a
+mcrcm.c

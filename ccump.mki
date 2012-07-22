@@ -1,0 +1,13 @@
+:builder=.c=gcc $(OPTCFLAGS) -Wall -Werror
+:object_dir=./ccump_objs
+:linker=gcc $(OPTLFLAGS)
+:lib_dir=.
+:misc_lflag=-lm
+
+ccump.c
+cump_params.c
+mtrand.c
+rcmrand.c
+urandom.c
+util.c
+times.c

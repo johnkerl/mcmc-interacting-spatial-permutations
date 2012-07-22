@@ -1,0 +1,622 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.7	//
+BUFSZ	urandom.c	16;"	d	file:
+CHECKS_H	checks.h	8;"	d
+CHECK_CYCINFO	checks.h	14;"	d
+CHECK_H	checks.h	11;"	d
+D	mcmc_rvs.h	/^	double   D;$/;"	m	struct:_mcmc_rvs_t
+DEFAULT_ALLOW_CYCLE_REVERSALS	mcmc_params.h	36;"	d
+DEFAULT_ALPHA0	mcmc_params.h	24;"	d
+DEFAULT_BETA	mcmc_params.h	23;"	d
+DEFAULT_D	mcmc_params.h	21;"	d
+DEFAULT_DO_RANDOM_SWEEP	mcmc_params.h	32;"	d
+DEFAULT_DO_SEED	ccump.c	19;"	d	file:
+DEFAULT_DO_SEED	mcmc_params.h	18;"	d
+DEFAULT_ETA	ccump.c	21;"	d	file:
+DEFAULT_FORCE_THERM	mcmc_params.h	40;"	d
+DEFAULT_GAMMA	mcmc_params.h	26;"	d
+DEFAULT_GSWEEPS_PER_ACC	mcmc_params.h	37;"	d
+DEFAULT_INTERACTION_TYPE	mcmc_params.h	25;"	d
+DEFAULT_L	mcmc_params.h	20;"	d
+DEFAULT_NY	ccump.c	23;"	d	file:
+DEFAULT_RAND_INIT_PI	mcmc_params.h	28;"	d
+DEFAULT_RAND_Y0	ccump.c	25;"	d	file:
+DEFAULT_SEED	ccump.c	18;"	d	file:
+DEFAULT_SEED	mcmc_params.h	17;"	d
+DEFAULT_SMOOTHING_WINDOW_SIZE	mcmc_params.h	41;"	d
+DEFAULT_TERMINATION_NUM_ACC	ccump.c	26;"	d	file:
+DEFAULT_TERMINATION_NUM_ACC	mcmc_params.h	33;"	d
+DEFAULT_THERM_NTP	mcmc_params.h	42;"	d
+DEFAULT_THERM_NUM_ITER	ccump.c	27;"	d	file:
+DEFAULT_WSWEEPS_PER_ACC	mcmc_params.h	38;"	d
+DEFAULT_WX1_INIT_PI	mcmc_params.h	29;"	d
+DEFAULT_WY1_INIT_PI	mcmc_params.h	30;"	d
+DEFAULT_WZ1_INIT_PI	mcmc_params.h	31;"	d
+DOTPLOT_H	dotplot.h	8;"	d
+D_1os	mcmc_rvs.h	/^	first_order_stats_t       D_1os;$/;"	m	struct:_mcmc_rvs_t
+ENERGY_H	energy.h	8;"	d
+GASDEV_H	gasdev.h	15;"	d
+GK_stats	metro_stats.h	/^	metro_type_stats_t GK_stats;$/;"	m	struct:_metro_stats_t
+GK_sweep	metropolis.c	/^void GK_sweep(points_t* ppoints, mcmc_params_t* pparams,$/;"	f
+H	mcmc_rvs.h	/^	double   H;$/;"	m	struct:_mcmc_rvs_t
+H	mcmc_rvs.h	/^	int H;$/;"	m	struct:_rv_verbosity_t
+HS_stats	metro_stats.h	/^	metro_type_stats_t HS_stats;$/;"	m	struct:_metro_stats_t
+H_2cos	mcmc_rvs.h	/^	second_order_cssm_stats_t H_2cos;$/;"	m	struct:_mcmc_rvs_t
+H_lagger	thermalization.h	/^	double  H_lagger;$/;"	m	struct:_therm_ctl_t
+H_verbosity	mcrcm.c	/^	int H_verbosity;$/;"	m	struct:_local_params_t	file:
+H_window	thermalization.h	/^	double* H_window;$/;"	m	struct:_therm_ctl_t
+IMODRANDOM	rcmrand.h	103;"	d
+IMODRANDOM	rcmrand.h	68;"	d
+IMODRANDOM	rcmrand.h	79;"	d
+IMODRANDOM	rcmrand.h	91;"	d
+INTERACTIONS_H	interactions.h	8;"	d
+IRANDOM	rcmrand.h	104;"	d
+IRANDOM	rcmrand.h	69;"	d
+IRANDOM	rcmrand.h	80;"	d
+IRANDOM	rcmrand.h	92;"	d
+L	mcmc_params.h	/^	int     L;$/;"	m	struct:_mcmc_params_t
+LARGE_SEP	seps.h	9;"	d
+LOWER_MASK	mtrand.c	52;"	d	file:
+M	mtrand.c	49;"	d	file:
+MATRIX_A	mtrand.c	50;"	d	file:
+MCMC_PARAMS_H	mcmc_params.h	8;"	d
+MCMC_RVS_H	mcmc_rvs.h	8;"	d
+MERSTW_H	mtrand.h	45;"	d
+METROPOLIS_H	metropolis.h	8;"	d
+METRO_STATS_H	metro_stats.h	8;"	d
+N	mtrand.c	48;"	d	file:
+N	points.h	/^	int     N;     \/\/ nx * ny * nz$/;"	m	struct:_points_t
+NITER	psdes.c	136;"	d	file:
+NNEI	metropolis.c	27;"	d	file:
+NO_INTERACTIONS	interactions.h	10;"	d
+NUM_ANGLE_STATS_SITES	mcmc_rvs.h	19;"	d
+NWNOJUMP	metropolis.c	24;"	d	file:
+NY	ccump.c	/^	int     NY;$/;"	m	struct:_cump_params_t	file:
+PERIODIC_BOUNDARY_CONDITIONS	points.h	13;"	d
+PMT_H	pmt.h	8;"	d
+POINTS_H	points.h	8;"	d
+PRINT_HDVW	metropolis.c	20;"	d	file:
+PRINT_OP_CL_ACC	metropolis.c	22;"	d	file:
+PRINT_OP_CL_ACC_REJ	metropolis.c	21;"	d	file:
+PRINT_ZHT	metropolis.c	19;"	d	file:
+PSDES_H	psdes.h	135;"	d
+R2_INTERACTIONS	interactions.h	11;"	d
+RANDPM	rcmrand.h	109;"	d
+RANDRANGE	rcmrand.h	108;"	d
+RCMRAND_H	rcmrand.h	30;"	d
+RCM_MAGIC_NUMBER	mcmc_params.h	15;"	d
+RCM_MERSTW	rcmrand.h	46;"	d
+RCM_PSDES	rcmrand.h	43;"	d
+RCM_RAND48	rcmrand.h	45;"	d
+RCM_RAND_DESC	rcmrand.h	64;"	d
+RCM_RAND_DESC	rcmrand.h	75;"	d
+RCM_RAND_DESC	rcmrand.h	87;"	d
+RCM_RAND_DESC	rcmrand.h	99;"	d
+RCM_URANDOM	rcmrand.h	44;"	d
+RCM_WHICH	rcmrand.h	58;"	d
+RELL_INTERACTIONS	interactions.h	12;"	d
+RHO_H	rho.h	8;"	d
+SEPS_H	seps.h	8;"	d
+SMALL_SEP	mcmc_rvs.c	16;"	d	file:
+SMALL_SEP	seps.h	10;"	d
+SRANDOM	rcmrand.h	101;"	d
+SRANDOM	rcmrand.h	66;"	d
+SRANDOM	rcmrand.h	77;"	d
+SRANDOM	rcmrand.h	89;"	d
+STATS_H	stats.h	8;"	d
+STRANDOM	rcmrand.h	100;"	d
+STRANDOM	rcmrand.h	65;"	d
+STRANDOM	rcmrand.h	76;"	d
+STRANDOM	rcmrand.h	88;"	d
+THERMALIZATION_H	thermalization.h	8;"	d
+TIMES_H	times.h	8;"	d
+TS_stats	metro_stats.h	/^	metro_type_stats_t TS_stats;$/;"	m	struct:_metro_stats_t
+UPPER_MASK	mtrand.c	51;"	d	file:
+URANDOM	rcmrand.h	102;"	d
+URANDOM	rcmrand.h	67;"	d
+URANDOM	rcmrand.h	78;"	d
+URANDOM	rcmrand.h	90;"	d
+URANDOM_H	urandom.h	8;"	d
+UTIL_H	util.h	8;"	d
+U_sweep	metropolis.c	/^void U_sweep(points_t* ppoints, mcmc_params_t* pparams)$/;"	f
+V	mcmc_rvs.h	/^	double   V;$/;"	m	struct:_mcmc_rvs_t
+VECTOR_MISC_H	vector_misc.h	8;"	d
+VZWL_INTERACTIONS	interactions.h	13;"	d
+VZWU_INTERACTIONS	interactions.h	14;"	d
+V_1os	mcmc_rvs.h	/^	first_order_stats_t       V_1os;$/;"	m	struct:_mcmc_rvs_t
+WORMIDX	wormidx.h	10;"	d
+WORMIDX_H	wormidx.h	8;"	d
+WORM_CLOSE	worm_moves.h	11;"	d
+WORM_HEAD_SWAP	worm_moves.h	12;"	d
+WORM_MOVES_H	worm_moves.h	8;"	d
+WORM_OPEN	worm_moves.h	10;"	d
+WORM_TAIL_SWAP	worm_moves.h	13;"	d
+WX_HISTO_MAX	mcmc_rvs.h	15;"	d
+WX_HISTO_MIN	mcmc_rvs.h	16;"	d
+Wx	mcmc_rvs.h	/^	int      Wx;$/;"	m	struct:_mcmc_rvs_t
+Wx_histo	mcmc_rvs.h	/^	ihisto_t Wx_histo;$/;"	m	struct:_mcmc_rvs_t
+Wy	mcmc_rvs.h	/^	int      Wy;$/;"	m	struct:_mcmc_rvs_t
+Wz	mcmc_rvs.h	/^	int      Wz;$/;"	m	struct:_mcmc_rvs_t
+_angle_stats_t	mcmc_rvs.h	/^typedef struct _angle_stats_t {$/;"	s
+_coord_t	points.h	/^typedef struct _coord_t {$/;"	s
+_cump_params_t	ccump.c	/^typedef struct _cump_params_t {$/;"	s	file:
+_cycinfo_t	points.h	/^typedef struct _cycinfo_t {$/;"	s
+_dims_t	points.h	/^typedef struct _dims_t {$/;"	s
+_ellxy_stats_t	mcmc_rvs.h	/^typedef struct _ellxy_stats_t {$/;"	s
+_first_order_stats_t	stats.h	/^typedef struct _first_order_stats_t {$/;"	s
+_ihisto_t	stats.h	/^typedef struct _ihisto_t {$/;"	s
+_jump_stats_t	mcmc_rvs.h	/^typedef struct _jump_stats_t {$/;"	s
+_kink_stats_t	mcmc_rvs.h	/^typedef struct _kink_stats_t {$/;"	s
+_local_params_t	mcrcm.c	/^typedef struct _local_params_t {$/;"	s	file:
+_mcmc_footer_t	mcmc_params.h	/^typedef struct _mcmc_footer_t {$/;"	s
+_mcmc_params_t	mcmc_params.h	/^typedef struct _mcmc_params_t {$/;"	s
+_mcmc_rvs_t	mcmc_rvs.h	/^typedef struct _mcmc_rvs_t {$/;"	s
+_metro_stats_t	metro_stats.h	/^typedef struct _metro_stats_t {$/;"	s
+_metro_type_stats_t	metro_stats.h	/^typedef struct _metro_type_stats_t {$/;"	s
+_point_t	points.h	/^typedef struct _point_t {$/;"	s
+_points_t	points.h	/^typedef struct _points_t {$/;"	s
+_rv_local_params_t	rvrcm.c	/^typedef struct _rv_local_params_t {$/;"	s	file:
+_rv_verbosity_t	mcmc_rvs.h	/^typedef struct _rv_verbosity_t {$/;"	s
+_second_order_cssm_stats_t	stats.h	/^typedef struct _second_order_cssm_stats_t {$/;"	s
+_second_order_pair_stats_t	stats.h	/^typedef struct _second_order_pair_stats_t {$/;"	s
+_second_order_stats_t	stats.h	/^typedef struct _second_order_stats_t {$/;"	s
+_therm_ctl_t	thermalization.h	/^typedef struct _therm_ctl_t {$/;"	s
+_time_series_t	stats.h	/^typedef struct _time_series_t {$/;"	s
+a	ccump.c	/^	double  a;$/;"	m	struct:_cump_params_t	file:
+accum_first_order_stats	stats.c	/^void accum_first_order_stats(first_order_stats_t* pstats, double x)$/;"	f
+accum_second_order_cssm_stats	stats.c	/^void accum_second_order_cssm_stats(second_order_cssm_stats_t* pstats, double x)$/;"	f
+accum_second_order_pair_stats	stats.c	/^void accum_second_order_pair_stats(second_order_pair_stats_t* pstats,$/;"	f
+accum_second_order_stats	stats.c	/^void accum_second_order_stats(second_order_stats_t* pstats, double x)$/;"	f
+accumulate_rvs	mcmc_rvs.c	/^void accumulate_rvs(mcmc_rvs_t* prvs, points_t* ppoints,$/;"	f
+allocate_rvs	mcmc_rvs.c	/^void allocate_rvs(mcmc_rvs_t* prvs, mcmc_params_t* pparams,$/;"	f
+allow_cycle_reversals	mcmc_params.h	/^	int     allow_cycle_reversals;$/;"	m	struct:_mcmc_params_t
+alpha0	mcmc_params.h	/^	double  alpha0;$/;"	m	struct:_mcmc_params_t
+angle_stats	mcmc_rvs.h	/^	angle_stats_t angle_stats[NUM_ANGLE_STATS_SITES];$/;"	m	struct:_mcmc_rvs_t
+angle_stats_t	mcmc_rvs.h	/^} angle_stats_t;$/;"	t	typeref:struct:_angle_stats_t
+avg	stats.h	/^	double   avg;$/;"	m	struct:_first_order_stats_t
+avg	stats.h	/^	double   avg;$/;"	m	struct:_second_order_cssm_stats_t
+avg	stats.h	/^	double   avg;$/;"	m	struct:_second_order_stats_t
+b	ccump.c	/^	double  b;$/;"	m	struct:_cump_params_t	file:
+beta	mcmc_params.h	/^	double  beta;$/;"	m	struct:_mcmc_params_t
+bins	stats.h	/^	int * bins;$/;"	m	struct:_ihisto_t
+c	points.h	/^	coord_t  c;$/;"	m	struct:_point_t
+char_malloc_or_die	util.c	/^char* char_malloc_or_die(int num_chars)$/;"	f
+check_H	energy.c	/^void check_H(points_t* ppoints,$/;"	f
+check_cycinfo_cyclens	points.c	/^void check_cycinfo_cyclens(points_t* ppoints)$/;"	f
+check_cycinfo_partition	points.c	/^void check_cycinfo_partition(points_t* ppoints)$/;"	f
+check_d	points.c	/^static void check_d(char * func_name, int d)$/;"	f	file:
+check_lattice_cycinfo_pointers	points.c	/^void check_lattice_cycinfo_pointers(points_t* ppoints)$/;"	f
+check_magic_number	mcmc_params.c	/^static void check_magic_number(unsigned file_value,$/;"	f	file:
+check_stop	util.c	/^void check_stop(void)$/;"	f
+clear_metro_stats	metro_stats.c	/^void clear_metro_stats(metro_stats_t* pmetro_stats)$/;"	f
+clear_metro_type_stats	metro_stats.c	/^void clear_metro_type_stats(metro_type_stats_t* pmetro_type_stats)$/;"	f
+close_file_or_die	util.c	/^void close_file_or_die(FILE* fp)$/;"	f
+close_stats	metro_stats.h	/^	metro_type_stats_t close_stats;$/;"	m	struct:_metro_stats_t
+compute_rho_infty	rho.c	/^double compute_rho_infty(double* rho_fit, double* rho_avg, double* rho,$/;"	f
+compute_rv_means	mcmc_rvs.c	/^void compute_rv_means(mcmc_rvs_t* prvs, points_t* ppoints)$/;"	f
+compute_rvs	mcmc_rvs.c	/^void compute_rvs(mcmc_rvs_t* prvs, points_t* ppoints, mcmc_params_t* pparams,$/;"	f
+compute_rvs	mcrcm.c	/^	int compute_rvs;$/;"	m	struct:_local_params_t	file:
+compute_vector_delta	vector_misc.c	/^void compute_vector_delta(double* v, double* u, int length)$/;"	f
+coord_t	points.h	/^} coord_t;$/;"	t	typeref:struct:_coord_t
+corr_xy	stats.h	/^	double   corr_xy;$/;"	m	struct:_second_order_pair_stats_t
+cos_angle	mcmc_rvs.h	/^	double   cos_angle;$/;"	m	struct:_angle_stats_t
+cos_angle	mcmc_rvs.h	/^	double   cos_angle;$/;"	m	struct:_kink_stats_t
+cos_angle	mcmc_rvs.h	/^	int cos_angle;$/;"	m	struct:_rv_verbosity_t
+cos_angle_defined	mcmc_rvs.h	/^	int      cos_angle_defined;$/;"	m	struct:_angle_stats_t
+cos_angle_defined	mcmc_rvs.h	/^	int      cos_angle_defined;$/;"	m	struct:_kink_stats_t
+cos_angle_sostats	mcmc_rvs.h	/^	second_order_stats_t cos_angle_sostats;$/;"	m	struct:_angle_stats_t
+cos_angle_sostats	mcmc_rvs.h	/^	second_order_stats_t cos_angle_sostats;$/;"	m	struct:_kink_stats_t
+count	stats.h	/^	int   count;$/;"	m	struct:_ihisto_t
+counts	mcmc_rvs.h	/^	int    * counts;$/;"	m	struct:_mcmc_rvs_t
+counts	mcmc_rvs.h	/^	int counts;$/;"	m	struct:_rv_verbosity_t
+counts_avg	mcmc_rvs.h	/^	double * counts_avg;$/;"	m	struct:_mcmc_rvs_t
+counts_sum	mcmc_rvs.h	/^	double * counts_sum;$/;"	m	struct:_mcmc_rvs_t
+cov_xy	stats.h	/^	double   cov_xy;$/;"	m	struct:_second_order_pair_stats_t
+cssm	stats.h	/^	double   cssm; \/\/ Corrected sample standard deviation of the sample mean.$/;"	m	struct:_second_order_cssm_stats_t
+cump_params_t	ccump.c	/^} cump_params_t;$/;"	t	typeref:struct:_cump_params_t	file:
+cycdec	mcmc_rvs.h	/^	int cycdec;$/;"	m	struct:_rv_verbosity_t
+cycinfo_list_insert	points.c	/^void cycinfo_list_insert(points_t* ppoints, cycinfo_t* pcycinfo)$/;"	f
+cycinfo_list_remove	points.c	/^void cycinfo_list_remove(points_t* ppoints, cycinfo_t* pcycinfo)$/;"	f
+cycinfo_t	points.h	/^} cycinfo_t;$/;"	t	typeref:struct:_cycinfo_t
+cycle_0_spatlen	mcmc_rvs.h	/^	double   cycle_0_spatlen;$/;"	m	struct:_mcmc_rvs_t
+cycle_0_spatlen	mcmc_rvs.h	/^	int cycle_0_spatlen;$/;"	m	struct:_rv_verbosity_t
+cycle_0_spatlen_2os	mcmc_rvs.h	/^	second_order_stats_t      cycle_0_spatlen_2os;$/;"	m	struct:_mcmc_rvs_t
+cycle_winds	pmt.c	/^int cycle_winds(points_t* ppoints, point_t* px)$/;"	f
+cyclen	points.h	/^	int      cyclen; \/\/ Number of lattice sites in the cycle.$/;"	m	struct:_cycinfo_t
+d	mcmc_params.h	/^	int     d;$/;"	m	struct:_mcmc_params_t
+delta_rho	mcmc_rvs.h	/^	double * delta_rho;$/;"	m	struct:_mcmc_rvs_t
+delta_rho_avg	mcmc_rvs.h	/^	double * delta_rho_avg;$/;"	m	struct:_mcmc_rvs_t
+dims	points.h	/^	dims_t  dims;$/;"	m	struct:_points_t
+dims_t	points.h	/^} dims_t;$/;"	t	typeref:struct:_dims_t
+display_footer	mcmc_params.c	/^void display_footer(mcmc_footer_t* pfooter)$/;"	f
+display_realization_rvs	mcmc_rvs.c	/^void display_realization_rvs(double H, double D, double V,$/;"	f
+display_rv_means	mcmc_rvs.c	/^void display_rv_means(mcmc_rvs_t* prvs, mcmc_params_t* pparams,$/;"	f
+do_one_sweep	mcrcm.c	/^static void do_one_sweep(points_t* ppoints, mcmc_params_t* pparams,$/;"	f	file:
+do_print_worm	mcrcm.c	/^	int do_print_worm;$/;"	m	struct:_local_params_t	file:
+do_print_wormspan	mcrcm.c	/^	int do_print_wormspan;$/;"	m	struct:_local_params_t	file:
+do_random_sweep	mcmc_params.h	/^	int     do_random_sweep;$/;"	m	struct:_mcmc_params_t
+do_seed	ccump.c	/^	int      do_seed;$/;"	m	struct:_cump_params_t	file:
+do_seed	mcmc_params.h	/^	int      do_seed;$/;"	m	struct:_mcmc_params_t
+dot	mcmc_rvs.h	/^	double   dot;$/;"	m	struct:_angle_stats_t
+dot	mcmc_rvs.h	/^	double   dot;$/;"	m	struct:_kink_stats_t
+dot	mcmc_rvs.h	/^	int dot;$/;"	m	struct:_rv_verbosity_t
+dot_sostats	mcmc_rvs.h	/^	second_order_stats_t dot_sostats;$/;"	m	struct:_angle_stats_t
+dot_sostats	mcmc_rvs.h	/^	second_order_stats_t dot_sostats;$/;"	m	struct:_kink_stats_t
+double_malloc_or_die	util.c	/^double* double_malloc_or_die(int num_doubles)$/;"	f
+dry_run	mcrcm.c	/^	int dry_run;$/;"	m	struct:_local_params_t	file:
+ell	mcmc_rvs.h	/^	int ell;$/;"	m	struct:_rv_verbosity_t
+ell0_2os	mcmc_rvs.h	/^	second_order_stats_t      ell0_2os;$/;"	m	struct:_mcmc_rvs_t
+ellbar	mcmc_rvs.h	/^	double   ellbar;$/;"	m	struct:_mcmc_rvs_t
+ellbar	mcmc_rvs.h	/^	int ellbar;$/;"	m	struct:_rv_verbosity_t
+ellbar_2cos	mcmc_rvs.h	/^	second_order_cssm_stats_t ellbar_2cos;$/;"	m	struct:_mcmc_rvs_t
+ellfbar	mcmc_rvs.h	/^	double   ellfbar;      \/\/ hoping to find a two-sided correlation length.$/;"	m	struct:_mcmc_rvs_t
+ellfbar_2os	mcmc_rvs.h	/^	second_order_stats_t      ellfbar_2os;$/;"	m	struct:_mcmc_rvs_t
+ellx	mcmc_rvs.h	/^	int      ellx;$/;"	m	struct:_mcmc_rvs_t
+ellxy_stats	mcmc_rvs.h	/^	ellxy_stats_t ellxy_stats;$/;"	m	struct:_mcmc_rvs_t
+ellxy_stats_t	mcmc_rvs.h	/^} ellxy_stats_t;$/;"	t	typeref:struct:_ellxy_stats_t
+elly	mcmc_rvs.h	/^	int      elly;$/;"	m	struct:_mcmc_rvs_t
+end_time	mcmc_params.h	/^	double end_time;$/;"	m	struct:_mcmc_footer_t
+eta	ccump.c	/^	double  eta;$/;"	m	struct:_cump_params_t	file:
+etac	ccump.c	/^	double  etac;$/;"	m	struct:_cump_params_t	file:
+fS	mcmc_rvs.h	/^	double   fS;             \/\/ f_S = <W^2> L^2 \/ 3 beta N.$/;"	m	struct:_mcmc_rvs_t
+fS_2cos	mcmc_rvs.h	/^	second_order_cssm_stats_t fS_2cos;$/;"	m	struct:_mcmc_rvs_t
+fW	mcmc_rvs.h	/^	double   fW;             \/\/ Fraction of sites in cycles which wind.$/;"	m	struct:_mcmc_rvs_t
+fW_2cos	mcmc_rvs.h	/^	second_order_cssm_stats_t fW_2cos;$/;"	m	struct:_mcmc_rvs_t
+file_info_only	rvrcm.c	/^	int   file_info_only;$/;"	m	struct:_rv_local_params_t	file:
+find_dxy_dyx_xoy	points.c	/^void find_dxy_dyx_xoy(points_t* ppoints, point_t* x, point_t* y,$/;"	f
+find_tauint_flat_spot	stats.c	/^double find_tauint_flat_spot(double* xs, int N)$/;"	f
+finish_first_order_stats	stats.c	/^void finish_first_order_stats(first_order_stats_t* pstats)$/;"	f
+finish_second_order_cssm_stats	stats.c	/^void finish_second_order_cssm_stats(second_order_cssm_stats_t* pstats)$/;"	f
+finish_second_order_pair_stats	stats.c	/^void finish_second_order_pair_stats(second_order_pair_stats_t* pstats)$/;"	f
+finish_second_order_stats	stats.c	/^void finish_second_order_stats(second_order_stats_t* pstats)$/;"	f
+first_order_stats_t	stats.h	/^} first_order_stats_t;$/;"	t	typeref:struct:_first_order_stats_t
+force_therm	mcmc_params.h	/^	int     force_therm;$/;"	m	struct:_mcmc_params_t
+force_therm	thermalization.h	/^	int     force_therm;$/;"	m	struct:_therm_ctl_t
+fprint_point	points.c	/^void fprint_point(FILE* fp, char* pre, point_t* px, char* post)$/;"	f
+fran32	psdes.c	/^double fran32(void)$/;"	f
+fran32_r	psdes.c	/^double fran32_r(unsigned * pstate0, unsigned * pstate1)$/;"	f
+free_cycinfo_list	points.c	/^void free_cycinfo_list(points_t* ppoints)$/;"	f
+free_first_order_stats	stats.c	/^void free_first_order_stats(first_order_stats_t* pstats)$/;"	f
+free_points	points.c	/^void free_points(points_t* ppoints)$/;"	f
+free_rvs	mcmc_rvs.c	/^void free_rvs(mcmc_rvs_t* prvs)$/;"	f
+free_second_order_cssm_stats	stats.c	/^void free_second_order_cssm_stats(second_order_cssm_stats_t* pstats)$/;"	f
+free_second_order_pair_stats	stats.c	/^void free_second_order_pair_stats(second_order_pair_stats_t* p2op)$/;"	f
+free_second_order_stats	stats.c	/^void free_second_order_stats(second_order_stats_t* pstats)$/;"	f
+free_time_series	stats.c	/^void free_time_series(time_series_t* pseries)$/;"	f
+fwd_d	points.h	/^	double   fwd_d;$/;"	m	struct:_point_t
+fwd_dsq	points.h	/^	int      fwd_dsq;$/;"	m	struct:_point_t
+fwd_jumps	metropolis.c	/^static int fwd_jumps[NNEI][3] = {$/;"	v	file:
+gamma	mcmc_params.h	/^	double  gamma;$/;"	m	struct:_mcmc_params_t
+gasdev	gasdev.c	/^double gasdev(void)$/;"	f
+gasdev_ms	gasdev.c	/^double gasdev_ms(double mean, double stddev)$/;"	f
+get_Delta_V_GK	energy.c	/^double get_Delta_V_GK(points_t* ppoints,$/;"	f
+get_Delta_V_worm	energy.c	/^double get_Delta_V_worm(points_t* ppoints,$/;"	f
+get_Delta_Vzw_GK	energy.c	/^double get_Delta_Vzw_GK(points_t* ppts,$/;"	f
+get_Delta_Vzw_worm_close	energy.c	/^double get_Delta_Vzw_worm_close(points_t* ppts,$/;"	f
+get_Delta_Vzw_worm_head_swap	energy.c	/^double get_Delta_Vzw_worm_head_swap(points_t* ppts,$/;"	f
+get_Delta_Vzw_worm_open	energy.c	/^double get_Delta_Vzw_worm_open(points_t* ppts,$/;"	f
+get_Delta_Vzw_worm_tail_swap	energy.c	/^double get_Delta_Vzw_worm_tail_swap(points_t* ppts,$/;"	f
+get_Delta_r2	energy.c	/^int get_Delta_r2(points_t* ppoints,$/;"	f
+get_Delta_rell	energy.c	/^double get_Delta_rell(points_t* ppoints,$/;"	f
+get_H_of_pi	energy.c	/^double get_H_of_pi(points_t* ppoints, double beta, double* alphas,$/;"	f
+get_Vzw_lower_of_jump_pair	energy.c	/^double inline get_Vzw_lower_of_jump_pair(points_t* ppoints,$/;"	f
+get_Vzw_of_jump_pair	energy.c	/^double get_Vzw_of_jump_pair(points_t* ppoints,$/;"	f
+get_Vzw_of_pi	energy.c	/^double get_Vzw_of_pi(points_t* ppoints, double beta, double* alphas,$/;"	f
+get_Vzw_upper_of_jump_pair	energy.c	/^double inline get_Vzw_upper_of_jump_pair(points_t* ppoints,$/;"	f
+get_Zd_distance_squared	points.h	/^static inline int get_Zd_distance_squared($/;"	f
+get_Zd_distance_squaredp	points.h	/^static inline int get_Zd_distance_squaredp($/;"	f
+get_alphas	interactions.c	/^double* get_alphas(int interaction_type, int N, double alpha0)$/;"	f
+get_coord_diff	points.h	/^static inline coord_t get_coord_diff(coord_t* pu, coord_t* pv, dims_t* pdims)$/;"	f
+get_coord_sum	points.h	/^static inline coord_t get_coord_sum(coord_t* pu, coord_t* pv, dims_t* pdims)$/;"	f
+get_cubic_lattice_points	points.c	/^points_t* get_cubic_lattice_points(int L, int d)$/;"	f
+get_cycle_0_spatlen	pmt.c	/^double get_cycle_0_spatlen(points_t* ppoints)$/;"	f
+get_cycle_winding_numbers	pmt.c	/^void get_cycle_winding_numbers(points_t* ppoints, point_t* px,$/;"	f
+get_distance_squared	points.h	/^static inline int get_distance_squared($/;"	f
+get_distance_squaredp	points.h	/^static inline int get_distance_squaredp($/;"	f
+get_distancep	points.h	/^static inline double get_distancep($/;"	f
+get_dot	points.h	/^static inline double get_dot(coord_t* pu, coord_t* pv)$/;"	f
+get_fraction_of_cycles_which_wind	pmt.c	/^double get_fraction_of_cycles_which_wind(points_t* ppoints)$/;"	f
+get_interaction_type_desc	interactions.c	/^char* get_interaction_type_desc(int interaction_type)$/;"	f
+get_jump_cos_angle	points.c	/^int get_jump_cos_angle(point_t* px, point_t* py, points_t* ppoints,$/;"	f
+get_jump_dot	points.c	/^double get_jump_dot(point_t* px, point_t* py, points_t* ppoints)$/;"	f
+get_mcmc_params_from_file	mcmc_params.c	/^void get_mcmc_params_from_file(mcmc_params_t* pparams, FILE* fp)$/;"	f
+get_mean_cycle_length	pmt.c	/^void get_mean_cycle_length(points_t* ppoints,$/;"	f
+get_mean_jump_length	points.c	/^double get_mean_jump_length(points_t* ppoints, double* pmaxjumplen)$/;"	f
+get_mtrand_double	mtrand.c	/^double get_mtrand_double(void)$/;"	f
+get_mtrand_float	mtrand.c	/^double get_mtrand_float(void)$/;"	f
+get_mtrand_int31	mtrand.c	/^int get_mtrand_int31(void)$/;"	f
+get_mtrand_int32	mtrand.c	/^unsigned get_mtrand_int32(void)$/;"	f
+get_norm	points.h	/^static inline double get_norm(coord_t* pu)$/;"	f
+get_normsq	points.h	/^static inline double get_normsq(coord_t* pu)$/;"	f
+get_pmt_winding_numbers	pmt.c	/^void get_pmt_winding_numbers(points_t* ppoints, int* pWx, int* pWy, int* pWz)$/;"	f
+get_rho_L_pi	rho.c	/^void get_rho_L_pi(points_t* ppoints, double* rho, int* counts, int *plmax)$/;"	f
+get_rng_type_desc	rcmrand.c	/^char* get_rng_type_desc(int rng_type)$/;"	f
+get_sys_time_double	times.c	/^double get_sys_time_double(void)$/;"	f
+get_sys_time_string	times.c	/^char* get_sys_time_string(void)$/;"	f
+get_uncached_cycle_length	pmt.c	/^int get_uncached_cycle_length(point_t* px)$/;"	f
+get_urandom	urandom.c	/^int get_urandom(void)$/;"	f
+get_urandomu	urandom.c	/^double get_urandomu(void)$/;"	f
+gsweeps_per_acc	mcmc_params.h	/^	int     gsweeps_per_acc;$/;"	m	struct:_mcmc_params_t
+hi_bin_point	stats.h	/^	int   hi_bin_point;$/;"	m	struct:_ihisto_t
+ihisto_free	stats.c	/^void ihisto_free(ihisto_t* pihisto)$/;"	f
+ihisto_incr	stats.c	/^void ihisto_incr(ihisto_t* pihisto, int value)$/;"	f
+ihisto_init	stats.c	/^void ihisto_init(ihisto_t* pihisto, int lo_bin_point, int hi_bin_point)$/;"	f
+ihisto_report	stats.c	/^void ihisto_report(ihisto_t* pihisto, char* RV_name)$/;"	f
+ihisto_t	stats.h	/^} ihisto_t;$/;"	t	typeref:struct:_ihisto_t
+init_first_order_stats	stats.c	/^void init_first_order_stats(first_order_stats_t* p1os, int nalloc)$/;"	f
+init_second_order_cssm_stats	stats.c	/^void init_second_order_cssm_stats(second_order_cssm_stats_t* pstats, int nalloc)$/;"	f
+init_second_order_pair_stats	stats.c	/^void init_second_order_pair_stats(second_order_pair_stats_t* pstats, int nalloc)$/;"	f
+init_second_order_stats	stats.c	/^void init_second_order_stats(second_order_stats_t* pstats, int nalloc)$/;"	f
+init_time_series	stats.c	/^void init_time_series(time_series_t* pseries, int nalloc)$/;"	f
+initialize_Ys	ccump.c	/^static void initialize_Ys(double* Ys, cump_params_t* pparams)$/;"	f	file:
+int_malloc_or_die	util.c	/^int* int_malloc_or_die(int num_ints)$/;"	f
+interaction_type	mcmc_params.h	/^	int     interaction_type;$/;"	m	struct:_mcmc_params_t
+ipow	util.c	/^int ipow(int x, int n)$/;"	f
+iran32	psdes.c	/^unsigned iran32(void)$/;"	f
+iran32_r	psdes.c	/^unsigned iran32_r(unsigned * pstate0, unsigned * pstate1)$/;"	f
+iran64	psdes.c	/^void iran64(unsigned * pout0, unsigned * pout1)$/;"	f
+iran64_r	psdes.c	/^void iran64_r(unsigned * pout0, unsigned * pout1,$/;"	f
+jump0_stats	mcmc_rvs.h	/^	jump_stats_t  jump0_stats;$/;"	m	struct:_mcmc_rvs_t
+jump_length	mcmc_rvs.h	/^	int jump_length;$/;"	m	struct:_rv_verbosity_t
+jump_stats_t	mcmc_rvs.h	/^} jump_stats_t;$/;"	t	typeref:struct:_jump_stats_t
+jump_target	mcmc_rvs.h	/^	int jump_target;$/;"	m	struct:_rv_verbosity_t
+jump_vector	mcmc_rvs.h	/^	int jump_vector;$/;"	m	struct:_rv_verbosity_t
+jumplenbar	mcmc_rvs.h	/^	double   jumplenbar;$/;"	m	struct:_mcmc_rvs_t
+jumplenbar_2os	mcmc_rvs.h	/^	second_order_stats_t      jumplenbar_2os;$/;"	m	struct:_mcmc_rvs_t
+kink_cos_angle	mcmc_rvs.h	/^	int kink_cos_angle;$/;"	m	struct:_rv_verbosity_t
+kink_dot	mcmc_rvs.h	/^	int kink_dot;$/;"	m	struct:_rv_verbosity_t
+kink_stats	mcmc_rvs.h	/^	kink_stats_t  kink_stats;$/;"	m	struct:_mcmc_rvs_t
+kink_stats_t	mcmc_rvs.h	/^} kink_stats_t;$/;"	t	typeref:struct:_kink_stats_t
+lattice	points.h	/^	point_t*** lattice;$/;"	m	struct:_points_t
+lmax	mcmc_rvs.h	/^	int      lmax;$/;"	m	struct:_mcmc_rvs_t
+lmax	mcmc_rvs.h	/^	int lmax;$/;"	m	struct:_rv_verbosity_t
+lmax_2cos	mcmc_rvs.h	/^	second_order_cssm_stats_t lmax_2cos;$/;"	m	struct:_mcmc_rvs_t
+lo_bin_point	stats.h	/^	int   lo_bin_point;$/;"	m	struct:_ihisto_t
+local_params_t	mcrcm.c	/^} local_params_t;$/;"	t	typeref:struct:_local_params_t	file:
+magic_number	mcmc_params.h	/^	unsigned magic_number; \/\/ Indicates file type.$/;"	m	struct:_mcmc_params_t
+magic_number	mcmc_params.h	/^	unsigned magic_number;$/;"	m	struct:_mcmc_footer_t
+magic_number2	mcmc_params.h	/^	unsigned magic_number2;$/;"	m	struct:_mcmc_footer_t
+magic_number2	mcmc_params.h	/^	unsigned magic_number2;$/;"	m	struct:_mcmc_params_t
+main	ccump.c	/^int main(int argc, char **argv)$/;"	f
+main	mcrcm.c	/^int main(int argc, char **argv)$/;"	f
+main	rvrcm.c	/^int main(int argc, char **argv)$/;"	f
+malloc_or_die	util.c	/^void* malloc_or_die(int num_bytes)$/;"	f
+mark	points.h	/^	int      mark;                \/\/ Scratch space for various routines.$/;"	m	struct:_point_t
+max_in_data	stats.h	/^	int   max_in_data;$/;"	m	struct:_ihisto_t
+maxjumplen	mcmc_rvs.h	/^	double   maxjumplen;$/;"	m	struct:_mcmc_rvs_t
+mcmc_footer_t	mcmc_params.h	/^} mcmc_footer_t;$/;"	t	typeref:struct:_mcmc_footer_t
+mcmc_params_t	mcmc_params.h	/^} mcmc_params_t;$/;"	t	typeref:struct:_mcmc_params_t
+mcmc_rvs_t	mcmc_rvs.h	/^} mcmc_rvs_t;$/;"	t	typeref:struct:_mcmc_rvs_t
+meanspatlen	mcmc_rvs.h	/^	double   meanspatlen;$/;"	m	struct:_mcmc_rvs_t
+meanspatlen	mcmc_rvs.h	/^	int meanspatlen;$/;"	m	struct:_rv_verbosity_t
+meanspatlen_2cos	mcmc_rvs.h	/^	second_order_cssm_stats_t meanspatlen_2cos;$/;"	m	struct:_mcmc_rvs_t
+meanspatlenf	mcmc_rvs.h	/^	double   meanspatlenf; \/\/ "Finite" versions for below T_c ...$/;"	m	struct:_mcmc_rvs_t
+meanspatlenf_2os	mcmc_rvs.h	/^	second_order_stats_t      meanspatlenf_2os;$/;"	m	struct:_mcmc_rvs_t
+metro_stats	mcmc_params.h	/^	metro_stats_t metro_stats;$/;"	m	struct:_mcmc_footer_t
+metro_stats_t	metro_stats.h	/^} metro_stats_t;$/;"	t	typeref:struct:_metro_stats_t
+metro_type_stats_t	metro_stats.h	/^} metro_type_stats_t;$/;"	t	typeref:struct:_metro_type_stats_t
+min_in_data	stats.h	/^	int   min_in_data;$/;"	m	struct:_ihisto_t
+mt	mtrand.c	/^static unsigned mt[N];     \/\/ the array for the state vector$/;"	v	file:
+mti	mtrand.c	/^static int mti=N+1;             \/\/ mti==N+1 means mt[N] is not initialized$/;"	v	file:
+mtrand_init	mtrand.c	/^void mtrand_init(unsigned s)$/;"	f
+mtrand_init_from_array	mtrand.c	/^void mtrand_init_from_array(unsigned init_key[], int key_length)$/;"	f
+mx	stats.h	/^	double   mx;$/;"	m	struct:_second_order_pair_stats_t
+my	stats.h	/^	double   my;$/;"	m	struct:_second_order_pair_stats_t
+nalloc	stats.h	/^	int     nalloc;$/;"	m	struct:_time_series_t
+non_reentrant_seeded	psdes.c	/^static unsigned non_reentrant_seeded = 0;$/;"	v	file:
+non_reentrant_state0	psdes.c	/^static unsigned non_reentrant_state0 = 0;$/;"	v	file:
+non_reentrant_state1	psdes.c	/^static unsigned non_reentrant_state1 = 0;$/;"	v	file:
+ntp	thermalization.h	/^	int     ntp;$/;"	m	struct:_therm_ctl_t
+num_above_hi	stats.h	/^	int   num_above_hi;$/;"	m	struct:_ihisto_t
+num_acc	mcmc_rvs.h	/^	int      num_acc;$/;"	m	struct:_mcmc_rvs_t
+num_below_lo	stats.h	/^	int   num_below_lo;$/;"	m	struct:_ihisto_t
+num_change	metro_stats.h	/^	long long num_change;$/;"	m	struct:_metro_type_stats_t
+num_keep	metro_stats.h	/^	long long num_keep;$/;"	m	struct:_metro_type_stats_t
+num_self	metro_stats.h	/^	long long num_self;$/;"	m	struct:_metro_type_stats_t
+num_total	metro_stats.h	/^	long long num_total;$/;"	m	struct:_metro_type_stats_t
+nused	stats.h	/^	int     nused;$/;"	m	struct:_time_series_t
+nx	points.h	/^	int    nx;$/;"	m	struct:_dims_t
+ny	points.h	/^	int    ny;$/;"	m	struct:_dims_t
+nz	points.h	/^	int    nz;$/;"	m	struct:_dims_t
+open_file_or_die	util.c	/^FILE* open_file_or_die(char* file_name, char* mode)$/;"	f
+open_stats	metro_stats.h	/^	metro_type_stats_t open_stats;$/;"	m	struct:_metro_stats_t
+pad	mcmc_params.h	/^	int     pad;$/;"	m	struct:_mcmc_footer_t
+pad	mcmc_params.h	/^	int     pad;$/;"	m	struct:_mcmc_params_t
+pair_stats	mcmc_rvs.h	/^	second_order_pair_stats_t pair_stats;$/;"	m	struct:_ellxy_stats_t
+parse_command_line	ccump.c	/^static int parse_command_line(int argc, char** argv, cump_params_t* pparams)$/;"	f	file:
+parse_command_line	mcrcm.c	/^static int parse_command_line(int argc, char** argv,$/;"	f	file:
+parse_command_line	rvrcm.c	/^static int parse_command_line(int argc, char** argv,$/;"	f	file:
+pbwd	points.h	/^	struct  _point_t* pbwd;$/;"	m	struct:_point_t	typeref:struct:_point_t::_point_t
+pcycinfo	points.h	/^	struct  _cycinfo_t* pcycinfo; \/\/ Ptr to cycle info for this site's cycle.$/;"	m	struct:_point_t	typeref:struct:_point_t::_cycinfo_t
+pcycinfo_list_head	points.h	/^	cycinfo_t*   pcycinfo_list_head;$/;"	m	struct:_points_t
+pcycinfo_list_tail	points.h	/^	cycinfo_t*   pcycinfo_list_tail;$/;"	m	struct:_points_t
+pfwd	points.h	/^	struct  _point_t* pfwd;$/;"	m	struct:_point_t	typeref:struct:_point_t::_point_t
+pmt	mcmc_rvs.h	/^	int pmt;$/;"	m	struct:_rv_verbosity_t
+pmt_get_cycle_counts_and_lmax	pmt.c	/^void pmt_get_cycle_counts_and_lmax(points_t* ppoints, int* counts, int *plmax)$/;"	f
+pmt_get_num_two_cycles	pmt.c	/^int pmt_get_num_two_cycles(points_t* ppoints)$/;"	f
+pmt_print_cycdec	pmt.c	/^void pmt_print_cycdec(points_t* ppoints)$/;"	f
+pmt_print_cycle	pmt.c	/^void pmt_print_cycle(point_t* px)$/;"	f
+pmt_print_cycle_verbose	pmt.c	/^void pmt_print_cycle_verbose(point_t* px)$/;"	f
+pmt_print_cyclens	pmt.c	/^void pmt_print_cyclens(points_t* ppoints)$/;"	f
+pmt_print_images	pmt.c	/^void pmt_print_images(points_t* ppoints)$/;"	f
+pmts_fn	mcrcm.c	/^	char* pmts_fn;$/;"	m	struct:_local_params_t	file:
+pmts_fn	rvrcm.c	/^	char* pmts_fn;$/;"	m	struct:_rv_local_params_t	file:
+pmts_fp	mcrcm.c	/^	FILE* pmts_fp;$/;"	m	struct:_local_params_t	file:
+pmts_fp	rvrcm.c	/^	FILE* pmts_fp;$/;"	m	struct:_rv_local_params_t	file:
+pnext	points.h	/^	struct _cycinfo_t* pnext;  \/\/ Forward  pointer for doubly linked list.$/;"	m	struct:_cycinfo_t	typeref:struct:_cycinfo_t::_cycinfo_t
+point_t	points.h	/^} point_t;$/;"	t	typeref:struct:_point_t
+points_t	points.h	/^} points_t;$/;"	t	typeref:struct:_points_t
+populate_footer	mcmc_params.c	/^void populate_footer(mcmc_footer_t* pfooter,$/;"	f
+populate_points	points.c	/^static void populate_points(points_t* ppoints, int nx, int ny, int nz, int d)$/;"	f	file:
+ppoint	mcmc_rvs.h	/^	point_t* ppoint;$/;"	m	struct:_jump_stats_t
+ppoint	mcmc_rvs.h	/^	point_t* ppoint;$/;"	m	struct:_kink_stats_t
+pprev	points.h	/^	struct _cycinfo_t* pprev;  \/\/ Backward pointer for doubly linked list.$/;"	m	struct:_cycinfo_t	typeref:struct:_cycinfo_t::_cycinfo_t
+print_Ys	ccump.c	/^static void print_Ys(double* Ys, cump_params_t* pparams)$/;"	f	file:
+print_cump_params	ccump.c	/^static void print_cump_params(cump_params_t* p)$/;"	f	file:
+print_cycinfo_list	points.c	/^void print_cycinfo_list(points_t* ppoints)$/;"	f
+print_first_order_stats	stats.c	/^void print_first_order_stats(first_order_stats_t* pstats, char* name)$/;"	f
+print_mcmc_params	mcmc_params.c	/^void print_mcmc_params(mcmc_params_t* p)$/;"	f
+print_name2_and_dvalue	stats.c	/^void print_name2_and_dvalue(char* a, char* b, double value)$/;"	f
+print_name3_and_dvalue	stats.c	/^void print_name3_and_dvalue(char* a, char* b, char* c, double value)$/;"	f
+print_name_and_dvalue	stats.c	/^void print_name_and_dvalue(char* name, double value)$/;"	f
+print_name_and_ivalue	stats.c	/^void print_name_and_ivalue(char* name, int value)$/;"	f
+print_point	points.c	/^void print_point(char* pre, point_t* px, char* post)$/;"	f
+print_points_and_cycles	dotplot.c	/^void print_points_and_cycles(points_t* ppoints)$/;"	f
+print_points_and_cycles_aux	dotplot.c	/^static void print_points_and_cycles_aux(points_t* ppoints,$/;"	f	file:
+print_points_and_cycles_min_max	dotplot.c	/^void print_points_and_cycles_min_max(points_t* ppoints,$/;"	f
+print_pre_therm_RVs	mcrcm.c	/^	int print_pre_therm_RVs;$/;"	m	struct:_local_params_t	file:
+print_second_order_cssm_stats	stats.c	/^void print_second_order_cssm_stats(second_order_cssm_stats_t* pstats,$/;"	f
+print_second_order_pair_stats	stats.c	/^void print_second_order_pair_stats(second_order_pair_stats_t* pstats,$/;"	f
+print_second_order_stats	stats.c	/^void print_second_order_stats(second_order_stats_t* pstats, char* name)$/;"	f
+print_winding_cycles	pmt.c	/^void print_winding_cycles(points_t* ppoints)$/;"	f
+print_worm	metropolis.c	/^static void print_worm(point_t* w)$/;"	f	file:
+psdes_hash_64	psdes.c	/^void psdes_hash_64($/;"	f
+psite	points.h	/^	point_t* psite;  \/\/ Points to one of the lattice sites in the cycle.$/;"	m	struct:_cycinfo_t
+px	mcmc_rvs.h	/^	point_t* px;$/;"	m	struct:_angle_stats_t
+px	mcmc_rvs.h	/^	point_t* px;$/;"	m	struct:_ellxy_stats_t
+py	mcmc_rvs.h	/^	point_t* py;$/;"	m	struct:_angle_stats_t
+py	mcmc_rvs.h	/^	point_t* py;$/;"	m	struct:_ellxy_stats_t
+r2	mcmc_rvs.h	/^	int      r2;$/;"	m	struct:_mcmc_rvs_t
+r2	mcmc_rvs.h	/^	int r2;$/;"	m	struct:_rv_verbosity_t
+r2_2cos	mcmc_rvs.h	/^	second_order_cssm_stats_t r2_2cos;$/;"	m	struct:_mcmc_rvs_t
+rand_Y0	ccump.c	/^	int     rand_Y0;$/;"	m	struct:_cump_params_t	file:
+rand_init_pi	mcmc_params.h	/^	int     rand_init_pi;$/;"	m	struct:_mcmc_params_t
+random_neighbor	metropolis.c	/^static inline point_t* random_neighbor(points_t* ppoints, point_t* a)$/;"	f	file:
+read_footer	mcmc_params.c	/^void read_footer(mcmc_footer_t* pfooter, FILE* fp)$/;"	f
+read_from_file_or_die	util.c	/^void read_from_file_or_die(void* ptr, size_t size, size_t nmemb, FILE* fp)$/;"	f
+read_pmt_from_file	pmt.c	/^void read_pmt_from_file(points_t* ppoints, FILE* fp)$/;"	f
+recompute_cycinfo_list	points.c	/^void recompute_cycinfo_list(points_t* ppoints)$/;"	f
+report_metro_stats	metro_stats.c	/^void report_metro_stats(metro_stats_t* pmetro_stats)$/;"	f
+report_metro_type_stats	metro_stats.c	/^void report_metro_type_stats(metro_type_stats_t* pstats)$/;"	f
+rho	mcmc_rvs.h	/^	double * rho;$/;"	m	struct:_mcmc_rvs_t
+rho	mcmc_rvs.h	/^	int rho;$/;"	m	struct:_rv_verbosity_t
+rho_avg	mcmc_rvs.h	/^	double * rho_avg;$/;"	m	struct:_mcmc_rvs_t
+rho_dev	mcmc_rvs.h	/^	double * rho_dev;$/;"	m	struct:_mcmc_rvs_t
+rho_fit	mcmc_rvs.h	/^	double * rho_fit;$/;"	m	struct:_mcmc_rvs_t
+rho_infty_T	mcmc_rvs.h	/^	double   rho_infty_T;$/;"	m	struct:_mcmc_rvs_t
+rho_sum	mcmc_rvs.h	/^	double * rho_sum;$/;"	m	struct:_mcmc_rvs_t
+rho_sum_count	mcmc_rvs.h	/^	int      rho_sum_count;$/;"	m	struct:_mcmc_rvs_t
+rng_type	ccump.c	/^	int      rng_type;$/;"	m	struct:_cump_params_t	file:
+rng_type	mcmc_params.h	/^	int      rng_type;$/;"	m	struct:_mcmc_params_t
+rv_local_params_t	rvrcm.c	/^} rv_local_params_t;$/;"	t	typeref:struct:_rv_local_params_t	file:
+rv_verbosity_t	mcmc_rvs.h	/^} rv_verbosity_t;$/;"	t	typeref:struct:_rv_verbosity_t
+s	ccump.c	/^	double  s;$/;"	m	struct:_cump_params_t	file:
+samples	stats.h	/^	double* samples;$/;"	m	struct:_time_series_t
+sanity_check_cycinfo_list	points.c	/^void sanity_check_cycinfo_list(points_t* ppoints)$/;"	f
+second_order_cssm_stats_t	stats.h	/^} second_order_cssm_stats_t;$/;"	t	typeref:struct:_second_order_cssm_stats_t
+second_order_pair_stats_t	stats.h	/^} second_order_pair_stats_t;$/;"	t	typeref:struct:_second_order_pair_stats_t
+second_order_stats_t	stats.h	/^} second_order_stats_t;$/;"	t	typeref:struct:_second_order_stats_t
+seed	ccump.c	/^	unsigned seed;$/;"	m	struct:_cump_params_t	file:
+seed	mcmc_params.h	/^	unsigned seed;$/;"	m	struct:_mcmc_params_t
+selfi	points.h	/^	int    selfi;$/;"	m	struct:_coord_t
+selfj	points.h	/^	int    selfj;$/;"	m	struct:_coord_t
+selfk	points.h	/^	int    selfk;$/;"	m	struct:_coord_t
+set_default_cump_params	ccump.c	/^static void set_default_cump_params(cump_params_t* p)$/;"	f	file:
+set_default_mcmc_params	mcmc_params.c	/^void set_default_mcmc_params(mcmc_params_t* p)$/;"	f
+set_unif_rand_pmt	pmt.c	/^void set_unif_rand_pmt(points_t* ppoints)$/;"	f
+set_up_cycinfo_list	points.c	/^void set_up_cycinfo_list(points_t* ppoints)$/;"	f
+set_wx_pmt	pmt.c	/^void set_wx_pmt(points_t* ppoints)$/;"	f
+set_wy_pmt	pmt.c	/^void set_wy_pmt(points_t* ppoints)$/;"	f
+set_wz_pmt	pmt.c	/^void set_wz_pmt(points_t* ppoints)$/;"	f
+smoothed_H	thermalization.h	/^	double  smoothed_H;$/;"	m	struct:_therm_ctl_t
+smoothed_H_diff1	thermalization.h	/^	double  smoothed_H_diff1;$/;"	m	struct:_therm_ctl_t
+smoothed_H_diff2	thermalization.h	/^	double  smoothed_H_diff2;$/;"	m	struct:_therm_ctl_t
+smoothed_Hm1	thermalization.h	/^	double  smoothed_Hm1;$/;"	m	struct:_therm_ctl_t
+smoothed_Hm2	thermalization.h	/^	double  smoothed_Hm2;$/;"	m	struct:_therm_ctl_t
+smoothing_scale	thermalization.h	/^	int     smoothing_scale;$/;"	m	struct:_therm_ctl_t
+smoothing_window_size	mcmc_params.h	/^	int     smoothing_window_size;$/;"	m	struct:_mcmc_params_t
+smoothing_window_size	thermalization.h	/^	int     smoothing_window_size;$/;"	m	struct:_therm_ctl_t
+sostats	mcmc_rvs.h	/^	second_order_stats_t sostats;$/;"	m	struct:_jump_stats_t
+sran32	psdes.c	/^void sran32(unsigned s)$/;"	f
+sran32_tod	psdes.c	/^void sran32_tod(void)$/;"	f
+sran32_tod_r	psdes.c	/^void sran32_tod_r(unsigned * pstate0, unsigned * pstate1)$/;"	f
+sran32b	psdes.c	/^void sran32b(unsigned s0, unsigned s1)$/;"	f
+ssH	thermalization.h	/^	double  ssH; \/\/ Scaled, smoothed H$/;"	m	struct:_therm_ctl_t
+start_time	mcmc_params.h	/^	double start_time;$/;"	m	struct:_mcmc_footer_t
+stddev	stats.h	/^	double   stddev;$/;"	m	struct:_second_order_cssm_stats_t
+stddev	stats.h	/^	double   stddev;$/;"	m	struct:_second_order_stats_t
+sweepi	mcmc_rvs.h	/^	int sweepi;$/;"	m	struct:_rv_verbosity_t
+sweepi	thermalization.h	/^	int     sweepi;$/;"	m	struct:_therm_ctl_t
+sx	stats.h	/^	double   sx;$/;"	m	struct:_second_order_pair_stats_t
+sy	stats.h	/^	double   sy;$/;"	m	struct:_second_order_pair_stats_t
+tauint	stats.h	/^	double   tauint;$/;"	m	struct:_second_order_cssm_stats_t
+tauint_Hs	mcmc_rvs.h	/^	int tauint_Hs;$/;"	m	struct:_rv_verbosity_t
+tauint_to_eta	stats.c	/^double tauint_to_eta(double tauint)$/;"	f
+tauint_to_tauexp	stats.c	/^double tauint_to_tauexp(double tauint)$/;"	f
+tbd	mcmc_params.h	/^	int     tbd[4];$/;"	m	struct:_mcmc_footer_t
+tbd1	mcmc_params.h	/^	int     tbd1;$/;"	m	struct:_mcmc_params_t
+tbd2	mcmc_params.h	/^	int     tbd2;$/;"	m	struct:_mcmc_params_t
+tbd3	mcmc_params.h	/^	int     tbd3;$/;"	m	struct:_mcmc_params_t
+tbd4	mcmc_params.h	/^	int     tbd4;$/;"	m	struct:_mcmc_params_t
+termination_num_acc	ccump.c	/^	int     termination_num_acc;$/;"	m	struct:_cump_params_t	file:
+termination_num_acc	mcmc_params.h	/^	int     termination_num_acc;$/;"	m	struct:_mcmc_params_t
+therm_ctl_free	thermalization.c	/^void therm_ctl_free(therm_ctl_t* ptherm)$/;"	f
+therm_ctl_init	thermalization.c	/^void therm_ctl_init(therm_ctl_t* ptherm, int smoothing_window_size,$/;"	f
+therm_ctl_t	thermalization.h	/^} therm_ctl_t;$/;"	t	typeref:struct:_therm_ctl_t
+therm_ctl_update	thermalization.c	/^void therm_ctl_update(therm_ctl_t* ptherm, double H)$/;"	f
+therm_ntp	mcmc_params.h	/^	int     therm_ntp;$/;"	m	struct:_mcmc_params_t
+therm_ntp	thermalization.h	/^	int     therm_ntp;$/;"	m	struct:_therm_ctl_t
+therm_num_iter	ccump.c	/^	int     therm_num_iter;$/;"	m	struct:_cump_params_t	file:
+therm_time	mcmc_params.h	/^	double therm_time;$/;"	m	struct:_mcmc_footer_t
+thermalized	thermalization.h	/^	int     thermalized;$/;"	m	struct:_therm_ctl_t
+time_series	stats.h	/^	time_series_t time_series;$/;"	m	struct:_first_order_stats_t
+time_series	stats.h	/^	time_series_t time_series;$/;"	m	struct:_second_order_cssm_stats_t
+time_series	stats.h	/^	time_series_t time_series;$/;"	m	struct:_second_order_stats_t
+time_series_append	stats.c	/^void time_series_append(time_series_t* pseries, double x)$/;"	f
+time_series_t	stats.h	/^} time_series_t;$/;"	t	typeref:struct:_time_series_t
+try_GK_swap	metropolis.c	/^static void try_GK_swap(points_t* ppoints,$/;"	f	file:
+try_worm_close	metropolis.c	/^static int try_worm_close(points_t* ppoints, point_t* w,$/;"	f	file:
+try_worm_head_swap	metropolis.c	/^static int try_worm_head_swap(points_t* ppoints, point_t* x, point_t* w,$/;"	f	file:
+try_worm_open	metropolis.c	/^static int try_worm_open(points_t* ppoints, point_t* x, point_t* w,$/;"	f	file:
+try_worm_tail_swap	metropolis.c	/^static int try_worm_tail_swap(points_t* ppoints, point_t* x, point_t* w,$/;"	f	file:
+ts_find_corrected_meanvar	stats.c	/^double ts_find_corrected_meanvar(time_series_t* pseries)$/;"	f
+ts_find_mean	stats.c	/^double ts_find_mean(time_series_t* pseries)$/;"	f
+ts_find_sample_corr	stats.c	/^double ts_find_sample_corr(time_series_t* pxseries, time_series_t* pyseries)$/;"	f
+ts_find_sample_cov	stats.c	/^double ts_find_sample_cov(time_series_t* pxseries, time_series_t* pyseries)$/;"	f
+ts_find_sample_cov_given_means	stats.c	/^double ts_find_sample_cov_given_means(time_series_t* pxseries,$/;"	f
+ts_find_sampvar	stats.c	/^double ts_find_sampvar(time_series_t* pseries)$/;"	f
+ts_find_sampvar_given_mean	stats.c	/^double ts_find_sampvar_given_mean(time_series_t* pseries, double mean)$/;"	f
+ts_find_stddev	stats.c	/^double ts_find_stddev(time_series_t* pseries)$/;"	f
+ts_find_stddev_given_mean	stats.c	/^double ts_find_stddev_given_mean(time_series_t* pseries, double mean)$/;"	f
+ts_find_tauint_flat_spot	stats.c	/^double ts_find_tauint_flat_spot(time_series_t* pseries)$/;"	f
+unitk	mcmc_rvs.h	/^	double * unitk;$/;"	m	struct:_mcmc_rvs_t
+update_Ys	ccump.c	/^static void update_Ys(double* Ys, cump_params_t* pparams)$/;"	f	file:
+update_cycinfo	points.c	/^void update_cycinfo(points_t* ppoints, point_t* x, point_t* y,$/;"	f
+usage	ccump.c	/^static void usage(char * argv0)$/;"	f	file:
+usage	mcrcm.c	/^static void usage(char * argv0)$/;"	f	file:
+usage	rvrcm.c	/^static void usage(char * argv0)$/;"	f	file:
+vector_accumulate	vector_misc.c	/^void vector_accumulate(double * sum, double * v, int length)$/;"	f
+vector_col2_printf	vector_misc.c	/^void vector_col2_printf(double* v1, double* v2, int length, char* format)$/;"	f
+vector_col3_printf	vector_misc.c	/^void vector_col3_printf(double* v1, double* v2, double* v3, int length,$/;"	f
+vector_col4_printf	vector_misc.c	/^void vector_col4_printf(double* v1, double* v2, double* v3, double* v4,$/;"	f
+vector_col5_printf	vector_misc.c	/^void vector_col5_printf(double* v1, double* v2, double* v3, double* v4, double* v5,$/;"	f
+vector_col5_printf_decimated	vector_misc.c	/^void vector_col5_printf_decimated($/;"	f
+vector_col6_printf_decimated	vector_misc.c	/^void vector_col6_printf_decimated($/;"	f
+vector_col7_printf_decimated	vector_misc.c	/^void vector_col7_printf_decimated($/;"	f
+vector_col_printf	vector_misc.c	/^void vector_col_printf (double* v, int length, char* format)$/;"	f
+vector_iaccumulate	vector_misc.c	/^void vector_iaccumulate(double * sum, int * v, int length)$/;"	f
+vector_row_printf	vector_misc.c	/^void vector_row_printf(double* v, int length, char* format)$/;"	f
+vector_scale	vector_misc.c	/^void vector_scale(double* v, double* u, double a, int length)$/;"	f
+width	ccump.c	/^	double  width;$/;"	m	struct:_cump_params_t	file:
+winding_cycle	mcmc_rvs.h	/^	int winding_cycle;$/;"	m	struct:_rv_verbosity_t
+winding_number	mcmc_rvs.h	/^	double   winding_number; \/\/ W^2 := Wx^2 + Wy^2 + Wz^2$/;"	m	struct:_mcmc_rvs_t
+winding_number	mcmc_rvs.h	/^	int winding_number;$/;"	m	struct:_rv_verbosity_t
+winding_number_2os	mcmc_rvs.h	/^	second_order_stats_t      winding_number_2os;$/;"	m	struct:_mcmc_rvs_t
+wno_jumps	metropolis.c	/^static int wno_jumps[NWNOJUMP][3] = {$/;"	v	file:
+worm_move_to_desc	worm_moves.c	/^char* worm_move_to_desc(int worm_move)$/;"	f
+worm_sweep	metropolis.c	/^void worm_sweep(points_t* ppoints, mcmc_params_t* pparams,$/;"	f
+wormhole	points.h	/^	point_t    wormhole;$/;"	m	struct:_points_t
+write_footer	mcmc_params.c	/^void write_footer(mcmc_footer_t* pfooter, FILE* fp)$/;"	f
+write_pmt_to_file	pmt.c	/^void write_pmt_to_file(points_t* ppoints, FILE* fp)$/;"	f
+write_to_file_or_die	util.c	/^void write_to_file_or_die(void* ptr, size_t size, size_t nmemb, FILE* fp)$/;"	f
+wsweeps_per_acc	mcmc_params.h	/^	int     wsweeps_per_acc;$/;"	m	struct:_mcmc_params_t
+wx1_init_pi	mcmc_params.h	/^	int     wx1_init_pi;$/;"	m	struct:_mcmc_params_t
+wy1_init_pi	mcmc_params.h	/^	int     wy1_init_pi;$/;"	m	struct:_mcmc_params_t
+wz1_init_pi	mcmc_params.h	/^	int     wz1_init_pi;$/;"	m	struct:_mcmc_params_t
+x_series	stats.h	/^	time_series_t x_series;$/;"	m	struct:_second_order_pair_stats_t
+y_series	stats.h	/^	time_series_t y_series;$/;"	m	struct:_second_order_pair_stats_t
+zero_centered_mod	points.h	/^static inline int zero_centered_mod(int x, int L)$/;"	f

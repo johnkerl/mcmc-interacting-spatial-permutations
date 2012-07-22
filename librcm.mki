@@ -1,0 +1,35 @@
+# ----------------------------------------------------------------
+:builder=.c=gcc $(OPTCFLAGS) -Wall -Werror
+:linker=ar r librcm.a
+:object_dir=./librcm_objs
+:exe_name=./librcm.a
+:is_dot_a=1
+
+# ----------------------------------------------------------------
+mcmc_params.c
+mcmc_rvs.c
+
+util.c
+vector_misc.c
+stats.c
+times.c
+
+gasdev.c
+psdes.c
+urandom.c
+mtrand.c
+rcmrand.c
+
+points.c
+dotplot.c
+
+energy.c
+interactions.c
+pmt.c
+rho.c
+
+thermalization.c
+metropolis.c
+metro_stats.c
+worm_moves.c
+
