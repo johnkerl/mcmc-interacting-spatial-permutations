@@ -2,6 +2,9 @@
 // Copyright (c) 2009 John Kerl.
 // kerl.john.r@gmail.com
 // Conditions for use of this file are expressed in the file ./README.txt.
+//
+// Code for experimenting with the _correlated uniform Markov process_  as
+// defined in Appendix B of http://johnkerl.org/rcm/kerl-dis-gc-ssp.pdf
 //================================================================
 
 #include <stdio.h>

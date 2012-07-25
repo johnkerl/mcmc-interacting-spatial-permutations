@@ -1,21 +1,10 @@
 // ================================================================
-// Copyright (c) 2004 John Kerl.
-// kerl.john.r@gmail.com
-//
-// This code and information is provided as is without warranty of
-// any kind, either expressed or implied, including but not limited to
-// the implied warranties of merchantability and/or fitness for a
-// particular purpose.
-//
-// No restrictions are placed on copy or reuse of this code, as long
-// as these paragraphs are included in the code.
+// Box-Muller, adapted from _Numerical Recipes in C_.
+// Returns a normally distributed deviate with zero mean and unit variance.
 // ================================================================
 
 #include <math.h>
 #include "rcmrand.h"
-
-// Box-Muller, from _Numerical Recipes in C_.
-// Returns a normally distributed deviate with zero mean and unit variance.
 
 // ----------------------------------------------------------------
 double gasdev(void)
